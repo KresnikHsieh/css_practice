@@ -1,0 +1,122 @@
+
+
+/*   ÃC¦â   */
+
+.main-header .header-lower .logo{
+	background:#558AD8;
+}
+
+.main-header .header-lower .logo:before{
+	background:#558AD8;
+}
+
+.main-header .header-lower .logo:after{
+	background:#558AD8;
+}
+.main-header .header-top {
+	background:#03243A;
+}
+.main-menu .navigation > li.current > a {
+	color:#558AD8;
+}
+.main-menu .navigation > li:hover > a {
+	color:#558AD8;
+}
+.main-menu .navigation > li > ul {
+	background:#558AD8;
+}
+.default-btn.style-two, .default-btn:hover {
+	background:#558AD8;
+	border-color:#558AD8 !important;
+}
+.normal-btn {
+	background:#558AD8;
+}
+.featured-three-column .inner-box {
+	background:#03243A;
+}
+.featured-three-column .column:nth-child(even) .inner-box {
+	background:#558AD8;
+}
+.featured-three-column .column .inner-box:hover {
+	box-shadow:00 6px 6px 0px rgba(86, 138, 216,0.70);
+	-webkit-box-shadow:0 6px 6px 0px rgba(86, 138, 216,0.70);
+	-ms-box-shadow:0 6px 6px 0px rgba(86, 138, 216,0.70);
+	-o-box-shadow:0px 6px 6px 2px rgba(86, 138, 216,0.70);
+	-moz-box-shadow:0px 6px 6px 2px rgba(86, 138, 216,0.70);
+}
+.featured-three-column .column .normal-btn:hover{
+	background:#ffffff !important;
+	color:#558AD8 !important;
+	border-color:#558AD8 !important;	
+}
+.featured-three-column .column .overlay .overlay-link{
+	background-color:rgba(86, 138, 216,0.50);
+}
+
+.services-section .services2 .column .image {
+	border-bottom:3px solid #558AD8;
+}
+.services-section .services2 .column h2:before {
+	background-color:#558AD8;
+}
+
+.services-section .column .read-more {
+	color:#03243A;
+}
+.services-section .column .read-more:hover {
+	color:#558AD8;
+}
+.fact-counter {
+	background-color:#558AD8;
+}
+.gallery-section .column .image .overlay-box .link {
+	background:rgba(86, 138, 216,0.50);
+}
+.scroll-to-top{
+	background:#558AD8;
+	border:1px solid #558AD8;
+}
+
+
+/*   ¦r«¬   */
+body {
+	font-family:Microsoft JhengHei;
+}
+.main-menu .navigation{
+	font-family:Microsoft JhengHei;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family:Microsoft JhengHei;
+}
+.default-btn {
+	font-family:Microsoft JhengHei;
+}
+.normal-btn {
+	font-family:Microsoft JhengHei;
+}
+
+/*   Header   */
+.logo img {
+	width:250px;
+}
+
+.main-menu {
+	padding:25px 0 10px 0;
+}
+
+.main-header .header-lower .outer-box {
+	padding: 0;
+}
+.main-menu .navigation > li > a > div > img {
+	width:25px;
+	margin-bottom:3px;
+}
+.main-menu .navigation > li > a > div {
+	text-align:center;
+}
+
+/*   ­º­¶   */
+
+
+
